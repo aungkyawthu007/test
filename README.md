@@ -1,2 +1,3 @@
-*Hello World
-This is simple git repo by FSE class
+
+Hello World 
+This is a homework Repo for next week SAT and Sunday
